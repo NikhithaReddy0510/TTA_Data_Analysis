@@ -1,3 +1,5 @@
 # TTA_Data_Analysis
-#### My repositary for Data Science Skills Bootcamp at TechTalent Academy
-##### Home Learning Tasks (HLT)
+#### This repositary for tasks and assignments learned and completed at TechTalent Academy "12 weeks Data Science Skills Bootcamp"
+
+## Home Learning Tasks (HLT)
+#### Branches for Homework assignments and tasks completed.
